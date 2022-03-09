@@ -1,0 +1,11 @@
+{
+  "width": 10,
+  "height": 10,
+  "title": "Game of life",
+  "zoom": 50,
+  "deadColor": "White",
+  "livingColor": "Black",
+  "backgroundColor": "Red",
+  "timeStep": 0.1,
+  "kindOfCell": "swap"
+}
